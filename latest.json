@@ -1,19 +1,19 @@
 {
-  "version": "0.1.7",
-  "notes": "Automated release for v0.1.7.",
-  "pub_date": "2026-03-12T18:58:19.497Z",
+  "version": "0.1.8",
+  "notes": "Automated release for v0.1.8.",
+  "pub_date": "2026-03-12T21:10:07.884Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2s5aTVybk81aUdkZGZ5TC9xUVkwMG5BOENxSnpPSy9kc0g2a2xsQ1FGZ1FxN1h3QnZ0eS9qbEEvNzhjaTFkdU5ia3hRSVhjempmSENQSzVRbW5jN0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQxODkyCWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuN194NjRfZW4tVVMubXNpCi90bm5nRFdMZnk4R29xVFptSEhDKzhXL2dDWnNWNkRtczNQbHhDVUtQYlRKZGlXWVhQRStGQnVJWTRtYVFEYkIwWmVGTDlZUHZGMkZHMWJ1UFVpRERBPT0K",
-      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.7/PAS.Integration.Hub_0.1.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2dLY21YU0psbndiQ09qa1JFVUJRWlhGUkxQcFBBb1lQYTMvNGVmR0w2RWh0NzJmTGNYL2Z4SENHM3VPbVNhckh6dU5DcitKbWRlVmdxa01GVTQ2dGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQ5ODAwCWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuOF94NjRfZW4tVVMubXNpCjhaQmxxbUVJRGozS1ZWeC9jWmpmRW5FNEFQYStrSDNkc3RWMFMyZnZqdGZXc1l6bnREWVVjMzRrN0EyRWRJR0ZXY3BNSDFSNjFHekpuSTJBeXdUaURnPT0K",
+      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.8/PAS.Integration.Hub_0.1.8_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2s5aTVybk81aUdkZGZ5TC9xUVkwMG5BOENxSnpPSy9kc0g2a2xsQ1FGZ1FxN1h3QnZ0eS9qbEEvNzhjaTFkdU5ia3hRSVhjempmSENQSzVRbW5jN0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQxODkyCWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuN194NjRfZW4tVVMubXNpCi90bm5nRFdMZnk4R29xVFptSEhDKzhXL2dDWnNWNkRtczNQbHhDVUtQYlRKZGlXWVhQRStGQnVJWTRtYVFEYkIwWmVGTDlZUHZGMkZHMWJ1UFVpRERBPT0K",
-      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.7/PAS.Integration.Hub_0.1.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2dLY21YU0psbndiQ09qa1JFVUJRWlhGUkxQcFBBb1lQYTMvNGVmR0w2RWh0NzJmTGNYL2Z4SENHM3VPbVNhckh6dU5DcitKbWRlVmdxa01GVTQ2dGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQ5ODAwCWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuOF94NjRfZW4tVVMubXNpCjhaQmxxbUVJRGozS1ZWeC9jWmpmRW5FNEFQYStrSDNkc3RWMFMyZnZqdGZXc1l6bnREWVVjMzRrN0EyRWRJR0ZXY3BNSDFSNjFHekpuSTJBeXdUaURnPT0K",
+      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.8/PAS.Integration.Hub_0.1.8_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ3RGcHdaWS9RNFhSV0tEYlhSM0tiNnc5ZnoxQU1ONW9QYXp5dHdOYXNWOHNibDhVblJXbUhvWWpRclExYXYycWx1UHk5YzgxOWZkcW83RCsyUGQzb1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQxODkyCWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuN194NjQtc2V0dXAuZXhlCm5CRDFXaEpKVGd1VnVCdm5td1UzajhhNGVYRjdTM0tjYmhnOWpHZ1U0U2IyNTdRTkh6RitUa21SK3FQZTNkenVvTk1tWFJiRkpFcTR2d1lLVWI0cER3PT0K",
-      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.7/PAS.Integration.Hub_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ25MMlJGNWJNNDhBemIyNHhGRU9hSERaZ2JMSWZseG0zSHBuKzVISCs0VnVWZk0vZnlYQ1pPT3lSRWw1amZweHd1TU5HbmtaUXZJSE41Q0UvN2NPWkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQ5ODAwCWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuOF94NjQtc2V0dXAuZXhlCjRKblZZNTNHZTQ2MVRMRTZia3dYRXlsOTk0ZUYzOU92RVIrdWlxeDdCNEZsWmVhK2ZXYm5mcW5XWVlVWWxYWWlJUURoL3VXRlBhOXR0MFZNU2dCWkR3PT0K",
+      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.8/PAS.Integration.Hub_0.1.8_x64-setup.exe"
     }
   }
 }
