@@ -1,19 +1,19 @@
 {
-  "version": "0.1.21",
-  "notes": "Automated release for v0.1.21.",
-  "pub_date": "2026-03-23T17:50:07.906Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2dxbk1JSjVlblUzNjV3cWw4NDhzamFhWUNUSFBwcXcySFFBK01jMktBaXRxY04xRHZISllZdXJZa1BKVDZsZTFiQi9JQkllWjFZejdIVml2bGl5V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjkzODg2CWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuMjFfeDY0LXNldHVwLmV4ZQpITU9Vd3hNVE1NM21lb1JoQ3NRd016VDg1R1d6SXVlemh2M2EvQXFKSmxqcllRN2NMdXA5VFREYjF2NjNEQ0JpU2owdi9XcWdiUkUwRE9VKzFJWnZBQT09Cg==",
-      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.21/PAS Integration Hub_0.1.21_x64-setup.exe"
-    },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ3BQYWhwdEwwVUcrWFZURGhJZ1dZVnRFdTdmN3JFQ3NqZVVmQUFBZ3hrQU1MZXhzNDI5Q3VkTnFEM3c1TGpKZWcyMy92NVJVOWFwc1JRc1NHcHNKV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjkzODg2CWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuMjFfeDY0X2VuLVVTLm1zaQpmV0tQUkFUK0M2dEN0eEJaaGZ2Zy9TendvcXdYTERDMXBzcWtVZWYrSk9HeHhvanNZQlkrWUIxOG5NMXdxeHRMcUJHQ1MwRDd3QllVelNsYlN0ZmxCdz09Cg==",
-      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.21/PAS Integration Hub_0.1.21_x64_en-US.msi"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2dxbk1JSjVlblUzNjV3cWw4NDhzamFhWUNUSFBwcXcySFFBK01jMktBaXRxY04xRHZISllZdXJZa1BKVDZsZTFiQi9JQkllWjFZejdIVml2bGl5V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjkzODg2CWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuMjFfeDY0LXNldHVwLmV4ZQpITU9Vd3hNVE1NM21lb1JoQ3NRd016VDg1R1d6SXVlemh2M2EvQXFKSmxqcllRN2NMdXA5VFREYjF2NjNEQ0JpU2owdi9XcWdiUkUwRE9VKzFJWnZBQT09Cg==",
-      "url": "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.21/PAS Integration Hub_0.1.21_x64-setup.exe"
-    }
-  }
+    "version":  "0.1.21",
+    "notes":  "Automated release for v0.1.21.",
+    "pub_date":  "2026-03-23T17:50:07.906Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2dxbk1JSjVlblUzNjV3cWw4NDhzamFhWUNUSFBwcXcySFFBK01jMktBaXRxY04xRHZISllZdXJZa1BKVDZsZTFiQi9JQkllWjFZejdIVml2bGl5V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjkzODg2CWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuMjFfeDY0LXNldHVwLmV4ZQpITU9Vd3hNVE1NM21lb1JoQ3NRd016VDg1R1d6SXVlemh2M2EvQXFKSmxqcllRN2NMdXA5VFREYjF2NjNEQ0JpU2owdi9XcWdiUkUwRE9VKzFJWnZBQT09Cg==",
+                                             "url":  "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.21/PAS.Integration.Hub_0.1.21_x64-setup.exe"
+                                         },
+                      "windows-x86_64-msi":  {
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ3BQYWhwdEwwVUcrWFZURGhJZ1dZVnRFdTdmN3JFQ3NqZVVmQUFBZ3hrQU1MZXhzNDI5Q3VkTnFEM3c1TGpKZWcyMy92NVJVOWFwc1JRc1NHcHNKV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjkzODg2CWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuMjFfeDY0X2VuLVVTLm1zaQpmV0tQUkFUK0M2dEN0eEJaaGZ2Zy9TendvcXdYTERDMXBzcWtVZWYrSk9HeHhvanNZQlkrWUIxOG5NMXdxeHRMcUJHQ1MwRDd3QllVelNsYlN0ZmxCdz09Cg==",
+                                                 "url":  "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.21/PAS.Integration.Hub_0.1.21_x64_en-US.msi"
+                                             },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVm00anowK05kQ2dxbk1JSjVlblUzNjV3cWw4NDhzamFhWUNUSFBwcXcySFFBK01jMktBaXRxY04xRHZISllZdXJZa1BKVDZsZTFiQi9JQkllWjFZejdIVml2bGl5V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjkzODg2CWZpbGU6UEFTIEludGVncmF0aW9uIEh1Yl8wLjEuMjFfeDY0LXNldHVwLmV4ZQpITU9Vd3hNVE1NM21lb1JoQ3NRd016VDg1R1d6SXVlemh2M2EvQXFKSmxqcllRN2NMdXA5VFREYjF2NjNEQ0JpU2owdi9XcWdiUkUwRE9VKzFJWnZBQT09Cg==",
+                                                  "url":  "https://github.com/ForsterAdmin/pas-integration-hub-updates/releases/download/v0.1.21/PAS.Integration.Hub_0.1.21_x64-setup.exe"
+                                              }
+                  }
 }
